@@ -41,7 +41,7 @@
         "laravel/legacy-factories": "^1.4",
         "livewire/livewire": "dev-main",
         "mockery/mockery": "^1.6",
-        "orchestra/testbench": "^7.23|^8.1.1|^9",
+        "orchestra/testbench": "^9.1.1",
         "phpunit/phpunit": "^9.5.25|^10"
     },
     "config": {
